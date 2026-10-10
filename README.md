@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Olá! Me chamo João Henrique, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas na FACENS. Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas e colocar meus conhecimentos em prática por meio de projetos.
+Olá! Me chamo João Henrique, tenho 20 anos e curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas e colocar meus conhecimentos em prática por meio de projetos.
 
 Atualmente, estou desenvolvendo minhas habilidades em **Front-End**, estudando HTML, CSS e JavaScript, e pretendo expandir meus conhecimentos em Back-End para me tornar um desenvolvedor Full Stack. Meu objetivo é conquistar uma oportunidade de estágio em TI, adquirir experiência prática e continuar evoluindo na área de desenvolvimento de software.
 
